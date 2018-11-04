@@ -9,8 +9,8 @@ Python Boilerplate
 .. image:: https://img.shields.io/travis/Scottmar93/python_boilerplate.svg
         :target: https://travis-ci.org/Scottmar93/python_boilerplate
 
-.. image:: https://readthedocs.org/projects/python-boilerplate/badge/?version=latest
-        :target: https://python-boilerplate.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/python-boilerplate-docs/badge/?version=latest
+        :target: https://python-boilerplate-docs.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 
@@ -20,7 +20,7 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 
 
 * Free software: MIT license
-* Documentation: https://python-boilerplate.readthedocs.io.
+* Documentation: https://python-boilerplate-docs.readthedocs.io
 
 
 Features
